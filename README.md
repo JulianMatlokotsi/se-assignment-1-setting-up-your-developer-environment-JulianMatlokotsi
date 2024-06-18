@@ -157,6 +157,6 @@ Docker
 
 By installing these extensions, I enhanced VS Code’s functionality, making it a powerful and efficient development environment. Each extension helps streamline various tasks, from code writing to version control, improving overall productivity.
 
-I did not attach any image since it was (Optional)
+I did not attach any image since it was (Optional).
 
 
